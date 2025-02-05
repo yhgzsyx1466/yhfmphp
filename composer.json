@@ -1,0 +1,18 @@
+{
+    "name": "yhworkgzs/yhfmphp",
+    "description": "yhfmphp框架核心包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "熙鹤",
+            "email": "1466416773@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yhpfmphp\\": "src/"
+        }
+    },
+    "require": {}
+}
