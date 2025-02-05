@@ -14,5 +14,6 @@
             "Yhpfmphp\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "version": "1.0.1" 
 }
